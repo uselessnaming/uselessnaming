@@ -5,8 +5,8 @@ Android Developer
 
 🛠️ Stack
 
-💪🏼 Tool
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
+💪🏼 Tool \n
+# <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **uselessnaming/uselessnaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

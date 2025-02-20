@@ -13,4 +13,3 @@
 
 ![uselessnaming's Github stats](https://github-readme-stats.vercel.app/api?username=uselessnaming&show_icons=true&theme=radical)
 
-![Programmers Badge](https://raw.githubusercontent.com/uselessnaming/Programmers_Badges_Generator/main/result/result.svg)

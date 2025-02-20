@@ -12,3 +12,5 @@
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 ![uselessnaming's Github stats](https://github-readme-stats.vercel.app/api?username=uselessnaming&show_icons=true&theme=radical)
+
+![Programmers Badge](https://raw.githubusercontent.com/uselessnaming/Programmers_Badges_Generator/main/result/result.svg)
